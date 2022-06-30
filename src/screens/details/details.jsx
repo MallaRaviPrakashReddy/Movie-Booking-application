@@ -3,6 +3,9 @@ import '../details/details.css'
 
 class Details extends Component {
     render() { 
+        state:{
+            
+        }
         console.log(this.props,this.state);
         return (
             <div>
